@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Vendor Management System**
 
-- 🌱 I’m currently learning **DRF, React**
+- 🌱 I’m currently learning **GEN AI, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaustubhthakur02](https://github.com/kaustubhthakur02)
 
